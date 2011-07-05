@@ -18,8 +18,6 @@ Source0:	http://www.cpan.org/modules/by-module/Linux/%{pdir}-%{pnam}-%{version}.
 URL:		http://search.cpan.org/dist/Linux-KernelSort/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
-%if %{with tests}
-%endif
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
