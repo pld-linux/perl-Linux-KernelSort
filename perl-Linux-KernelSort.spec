@@ -4,7 +4,6 @@
 #
 %define		pdir	Linux
 %define		pnam	KernelSort
-%include	/usr/lib/rpm/macros.perl
 Summary:	Linux::KernelSort - Perl extension for sorting and comparing Linux kernel versions
 Summary(pl.UTF-8):	Linux::KernelSort - rozszerzenie Perla do sortowania i porównywania wersji jądra Linuksa
 Name:		perl-Linux-KernelSort
