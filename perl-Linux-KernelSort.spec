@@ -8,7 +8,7 @@ Summary:	Linux::KernelSort - Perl extension for sorting and comparing Linux kern
 Summary(pl.UTF-8):	Linux::KernelSort - rozszerzenie Perla do sortowania i porównywania wersji jądra Linuksa
 Name:		perl-Linux-KernelSort
 Version:	0.01
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
